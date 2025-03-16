@@ -1,0 +1,17 @@
+pandas
+python-dotenv
+tiktoken
+jq
+sentence-transformers
+faiss-cpu
+uvicorn
+numpy
+dotenv
+langchain_groq
+pinecone-client
+streamlit
+langchain-community l
+angchain-openai 
+tiktoken
+
+
